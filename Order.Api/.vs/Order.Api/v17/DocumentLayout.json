@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Kareem\\Route\\Course C# Route\\Task\\Order.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA1322F-A9C4-4BDD-9720-89A5D32146EE}|Order.Api.csproj|e:\\kareem\\route\\course c# route\\task\\order.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEA1322F-A9C4-4BDD-9720-89A5D32146EE}|Order.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA1322F-A9C4-4BDD-9720-89A5D32146EE}|Order.Api.csproj|e:\\kareem\\route\\course c# route\\task\\order.api\\extensions\\identityserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEA1322F-A9C4-4BDD-9720-89A5D32146EE}|Order.Api.csproj|solutionrelative:extensions\\identityserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E8BCE9-B800-4FC0-A2E6-4B8503243FC4}|..\\Order.Service\\Order.Service.csproj|e:\\kareem\\route\\course c# route\\task\\order.service\\services\\productservice\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E8BCE9-B800-4FC0-A2E6-4B8503243FC4}|..\\Order.Service\\Order.Service.csproj|e:\\kareem\\route\\course c# route\\task\\order.service\\services\\productservice\\productdto\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E8BCE9-B800-4FC0-A2E6-4B8503243FC4}|..\\Order.Service\\Order.Service.csproj|e:\\kareem\\route\\course c# route\\task\\order.service\\services\\userservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E8BCE9-B800-4FC0-A2E6-4B8503243FC4}|..\\Order.Service\\Order.Service.csproj|e:\\kareem\\route\\course c# route\\task\\order.service\\services\\productservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E8BCE9-B800-4FC0-A2E6-4B8503243FC4}|..\\Order.Service\\Order.Service.csproj|e:\\kareem\\route\\course c# route\\task\\order.service\\services\\orderservice\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE93D15-D4BB-4341-859B-96ABE406A97E}|..\\Order.Data\\Order.Data.csproj|e:\\kareem\\route\\course c# route\\task\\order.data\\entities\\identityentities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF3988C-48EB-416D-A580-F8603101BE21}|..\\Order.Repository\\Order.Repository.csproj|e:\\kareem\\route\\course c# route\\task\\order.repository\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF3988C-48EB-416D-A580-F8603101BE21}|..\\Order.Repository\\Order.Repository.csproj|e:\\kareem\\route\\course c# route\\task\\order.repository\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IdentityServiceExtension.cs",
+              "DocumentMoniker": "E:\\Kareem\\Route\\Course C# Route\\Task\\Order.Api\\Extensions\\IdentityServiceExtension.cs",
+              "RelativeDocumentMoniker": "Extensions\\IdentityServiceExtension.cs",
+              "ToolTip": "E:\\Kareem\\Route\\Course C# Route\\Task\\Order.Api\\Extensions\\IdentityServiceExtension.cs",
+              "RelativeToolTip": "Extensions\\IdentityServiceExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T08:14:46.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Kareem\\Route\\Course C# Route\\Task\\Order.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Kareem\\Route\\Course C# Route\\Task\\Order.Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:51:27.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductProfile.cs",
+              "DocumentMoniker": "E:\\Kareem\\Route\\Course C# Route\\Task\\Order.Service\\Services\\ProductService\\ProductDto\\ProductProfile.cs",
+              "RelativeDocumentMoniker": "..\\Order.Service\\Services\\ProductService\\ProductDto\\ProductProfile.cs",
+              "ToolTip": "E:\\Kareem\\Route\\Course C# Route\\Task\\Order.Service\\Services\\ProductService\\ProductDto\\ProductProfile.cs",
+              "RelativeToolTip": "..\\Order.Service\\Services\\ProductService\\ProductDto\\ProductProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T06:27:51.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "E:\\Kareem\\Route\\Course C# Route\\Task\\Order.Service\\Services\\ProductService\\ProductService.cs",
+              "RelativeDocumentMoniker": "..\\Order.Service\\Services\\ProductService\\ProductService.cs",
+              "ToolTip": "E:\\Kareem\\Route\\Course C# Route\\Task\\Order.Service\\Services\\ProductService\\ProductService.cs",
+              "RelativeToolTip": "..\\Order.Service\\Services\\ProductService\\ProductService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T05:44:32.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "E:\\Kareem\\Route\\Course C# Route\\Task\\Order.Service\\Services\\ProductService\\IProductService.cs",
+              "RelativeDocumentMoniker": "..\\Order.Service\\Services\\ProductService\\IProductService.cs",
+              "ToolTip": "E:\\Kareem\\Route\\Course C# Route\\Task\\Order.Service\\Services\\ProductService\\IProductService.cs",
+              "RelativeToolTip": "..\\Order.Service\\Services\\ProductService\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T05:43:54.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\Kareem\\Route\\Course C# Route\\Task\\Order.Service\\Services\\UserService\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\Order.Service\\Services\\UserService\\UserService.cs",
+              "ToolTip": "E:\\Kareem\\Route\\Course C# Route\\Task\\Order.Service\\Services\\UserService\\UserService.cs",
+              "RelativeToolTip": "..\\Order.Service\\Services\\UserService\\UserService.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T22:42:16.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "E:\\Kareem\\Route\\Course C# Route\\Task\\Order.Service\\Services\\OrderService\\OrderService.cs",
+              "RelativeDocumentMoniker": "..\\Order.Service\\Services\\OrderService\\OrderService.cs",
+              "ToolTip": "E:\\Kareem\\Route\\Course C# Route\\Task\\Order.Service\\Services\\OrderService\\OrderService.cs",
+              "RelativeToolTip": "..\\Order.Service\\Services\\OrderService\\OrderService.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAYwIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T03:16:22.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "E:\\Kareem\\Route\\Course C# Route\\Task\\Order.Data\\Entities\\IdentityEntities\\AppUser.cs",
+              "RelativeDocumentMoniker": "..\\Order.Data\\Entities\\IdentityEntities\\AppUser.cs",
+              "ToolTip": "E:\\Kareem\\Route\\Course C# Route\\Task\\Order.Data\\Entities\\IdentityEntities\\AppUser.cs",
+              "RelativeToolTip": "..\\Order.Data\\Entities\\IdentityEntities\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T00:34:43.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "E:\\Kareem\\Route\\Course C# Route\\Task\\Order.Repository\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\Order.Repository\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "E:\\Kareem\\Route\\Course C# Route\\Task\\Order.Repository\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "..\\Order.Repository\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T21:34:19.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "E:\\Kareem\\Route\\Course C# Route\\Task\\Order.Repository\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\Order.Repository\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "E:\\Kareem\\Route\\Course C# Route\\Task\\Order.Repository\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "..\\Order.Repository\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T21:10:31.326Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
